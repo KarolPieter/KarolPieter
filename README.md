@@ -6,5 +6,5 @@ As a learning project, I turned my old laptop into a self-hosted headless Debian
 
 I'm also currently working through EPAM's ["Cloud & DevOps Fundamentals"](https://campus.epam.com/en/training/5657) course (Linux, Bash, Python, Docker, CI/CD, cloud, Terraform, Ansible), right now on Bash.
 
-**Security & networking:** SSH, Tailscale, UFW
+**Security & networking:** SSH, Tailscale, UFW\
 **Tools:** Docker, Git, Bash, PostgreSQL, Zabbix
