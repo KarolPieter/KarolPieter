@@ -6,7 +6,7 @@ I built a headless Debian 13 [home server](https://github.com/KarolPieter/home-s
 
 ## Skills
 
-- Operating systems: Debian, Ubuntu Server, Windows 10/11\
-- Networking & security: TCP/IP, SSH, Tailscale, UFW\
-- Tools & automation: Docker, Docker Compose, Git, Bash\
-- Monitoring & databases: Zabbix, PostgreSQL\
+- Operating systems: Debian, Ubuntu Server, Windows 10/11
+- Networking & security: TCP/IP, SSH, Tailscale, UFW
+- Tools & automation: Docker, Docker Compose, Git, Bash
+- Monitoring & databases: Zabbix, PostgreSQL
