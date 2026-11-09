@@ -1,10 +1,12 @@
-### IT Technical Secondary School graduate, focused on system administration and security.
+IT technical school graduate focused on system administration and security. Linux is my primary operating system, but I also work with Windows. Open to junior IT support and system administration roles.
 
-Windows user since XP, but Linux is where I feel at home and now my main OS. I dual-boot both and I'm equally comfortable in either.
+## Featured Project
 
-As a learning project, I turned my old laptop into a self-hosted headless Debian server, and I keep expanding it as I learn. Full documentation in [home-server](https://github.com/KarolPieter/home-server).
+I built a headless Debian 13 [home server](https://github.com/KarolPieter/home-server) from an old laptop and maintain it myself. It runs Docker Compose services and includes automated local backups, Zabbix monitoring with Telegram alerts, SSH key-based access, UFW and Tailscale VPN.
 
-I'm also currently working through EPAM's ["Cloud & DevOps Fundamentals"](https://campus.epam.com/en/training/5657) course (Linux, Bash, Python, Docker, CI/CD, cloud, Terraform, Ansible), right now on Bash.
+## Skills
 
-**Security & networking:** SSH, Tailscale, UFW\
-**Tools:** Docker, Git, Bash, PostgreSQL, Zabbix
+- Operating systems: Debian, Ubuntu Server, Windows 10/11\
+- Networking & security: TCP/IP, SSH, Tailscale, UFW\
+- Tools & automation: Docker, Docker Compose, Git, Bash\
+- Monitoring & databases: Zabbix, PostgreSQL\
